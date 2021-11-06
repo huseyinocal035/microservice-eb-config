@@ -1,5 +1,5 @@
 account:
-  msg: Welcome to the Huseyin Öcal Account Prod application
+  msg: {cipher}4c1e3cbce5c00126eb3aa04730b99460ea031f4e232639e768c72e5b857c5ee050954f111aa2988ae8074929957527fdd945337e2ea8f84f6d48ef4579d7d74790e9da449d56ab1beacdde3e2ade30eb
   build-version: 256
   mailDetails:
     hostName: prod-account@gmail.com
