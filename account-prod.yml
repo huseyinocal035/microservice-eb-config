@@ -1,6 +1,6 @@
 account:
   msg: Welcome to the Huseyin Öcal Account Prod application
-  build-version: 155
+  build-version: 256
   mailDetails:
     hostName: prod-account@gmail.com
   port: 9010
